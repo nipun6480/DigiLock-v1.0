@@ -101,3 +101,10 @@ allowing external monitoring and debugging.
 
 ## 📂 Repository Structure
 
+## 🖼️ Hardware Setup
+
+### Circuit Wiring
+![Wiring Diagram](images/wiring.png)
+
+### Complete Setup
+![Hardware Setup](images/setup.png)
