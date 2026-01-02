@@ -101,15 +101,18 @@ allowing external monitoring and debugging.
 
 ## 📂 Repository Structure
 
+```text
 DigiLock-v1.0/
 ├── README.md
 ├── code/
-│ └── DigiLock.ino
+│   └── DigiLock.ino
 ├── matlab/
-│ └── serial_reader.m
+│   └── serial_reader.m
 └── images/
-├── wiring.png
-└── setup.png
+    ├── wiring.png
+    └── setup.png
+```
+
 
 
 
