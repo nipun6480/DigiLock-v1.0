@@ -100,6 +100,16 @@ allowing external monitoring and debugging.
 ---
 
 ## 📂 Repository Structure
+DigiLock-v1.0/
+├── README.md
+├── code/
+│   └── DigiLock.ino
+├── matlab/
+│   └── serial_reader.m
+└── images/
+    ├── wiring.png
+    └── setup.png
+
 
 ## 🖼️ Hardware Setup
 
